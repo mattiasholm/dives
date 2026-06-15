@@ -3,4 +3,4 @@
 ![Created at](https://img.shields.io/github/created-at/mattiasholm/dives?color=blue)
 
 # dives
-A collection of scuba dives from around the world
+A collection of all my scuba dives
