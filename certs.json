@@ -2,61 +2,51 @@
 	{
 		"name": "SSI Specialty Diver",
 		"id": "728104Z7171875164967-SE",
-		"date": "2024-06-08",
-		"logo": "/img/ssi.svg"
+		"date": "2024-06-08"
 	},
 	{
 		"name": "SSI Perfect Buoyancy",
 		"id": "728104C7171975160809-SE",
-		"date": "2024-06-08",
-		"logo": "/img/ssi.svg"
+		"date": "2024-06-08"
 	},
 	{
 		"name": "SSI Deep Diving",
 		"id": "728104A6598373067162-SE",
-		"date": "2022-07-31",
-		"logo": "/img/ssi.svg"
+		"date": "2022-07-31"
 	},
 	{
 		"name": "PADI Rescue Diver",
 		"id": "2110UY2123",
-		"date": "2021-10-24",
-		"logo": "/img/padi.svg"
+		"date": "2021-10-24"
 	},
 	{
 		"name": "PADI Emergency Oxygen Provider",
 		"id": "2110UY2113",
-		"date": "2021-10-21",
-		"logo": "/img/padi.svg"
+		"date": "2021-10-21"
 	},
 	{
 		"name": "PADI Enriched Air Diver",
 		"id": "2102UE3152",
-		"date": "2021-02-10",
-		"logo": "/img/padi.svg"
+		"date": "2021-02-10"
 	},
 	{
 		"name": "PADI Night Diver",
 		"id": "2011UO0326",
-		"date": "2020-11-07",
-		"logo": "/img/padi.svg"
+		"date": "2020-11-07"
 	},
 	{
 		"name": "PADI Advanced Open Water Diver",
 		"id": "2008UT0434",
-		"date": "2020-08-16",
-		"logo": "/img/padi.svg"
+		"date": "2020-08-16"
 	},
 	{
 		"name": "PADI Dry Suit Diver",
 		"id": "2008UQ4478",
-		"date": "2020-08-09",
-		"logo": "/img/padi.svg"
+		"date": "2020-08-09"
 	},
 	{
 		"name": "PADI Open Water Diver",
 		"id": "2007UH8396",
-		"date": "2020-07-03",
-		"logo": "/img/padi.svg"
+		"date": "2020-07-03"
 	}
 ]
